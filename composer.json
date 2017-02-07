@@ -1,5 +1,5 @@
 {
-    "name": "Crasmedia/laravel-scout-elastic",
+    "name": "crasmedia/laravel-scout-elastic",
     "description": "Elastic Driver for Laravel Scout",
     "keywords": ["laravel", "scout", "elasticsearch", "elastic"],
     "require": {
